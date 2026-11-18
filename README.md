@@ -15,16 +15,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Agent_SDK-D97757?logo=claude&logoColor=white)
 
-## Featured projects
-
-| Project | Description |
-| --- | --- |
-| [**claude-code-remote**](https://github.com/Mario2206/claude-code-remote) | Self-hosted web app to drive Claude Code from a browser: one git worktree per conversation, tool approvals from the UI, app previews. Node, Express, WebSocket, React. |
-| [**big-brother**](https://github.com/Mario2206/big-brother) | Capture every HTTP/HTTPS request made by processes in a terminal session, with no per-app proxy setup. Live dashboard and JSONL export. |
-| [**avengers**](https://github.com/Mario2206/avengers) | A small team of personal AI agents on Telegram, each with one job. One of them builds the others. |
-| [**super-claude**](https://github.com/Mario2206/super-claude) | Claude Code plugin that streams conversation events to your own API endpoints. |
-| [**strategy-phaser**](https://github.com/Mario2206/strategy-phaser) | *Wolf vs Critter*, an asymmetric maze game built with Phaser. |
-
 ## GitHub stats
 
 <p>

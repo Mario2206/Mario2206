@@ -15,9 +15,3 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Agent_SDK-D97757?logo=claude&logoColor=white)
 
-## GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mario2206&show_icons=true&hide_border=true&theme=github_dark" alt="Mathieu's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario2206&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-</p>
